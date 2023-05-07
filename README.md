@@ -1,3 +1,14 @@
+# Ordisrespectooor
+
+Really disrespect all spammooors, present and future. Resistant to any attempt to avoid disrespect
+from spammooors. Will never relay spamming transactions even the most tenacious ones. Even
+obfuscated ones. No spamooor transaction relayed.
+
+
+
+--------------------------
+
+
 Bitcoin Core integration/staging tree
 =====================================
 
